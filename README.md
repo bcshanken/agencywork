@@ -21,4 +21,26 @@ To run this website, you must deploy the index.html and style.css files to your 
 
 The top of the web page now includes a nav bar with functioning hyperlinks that direct the user to the specific sections of the site regarding that menu item.
 
-![alttext](.Readme-images/nav)
+<img alt="nav bar" src="https://github.com/bcshanken/agencywork/blob/master/Readme-Images/navbar.JPG?raw=true">
+
+The main content section is the body of this webpage and contains most of the content. This is where Horiseon really shows what all they offer. The styling for all these cards have been updated be be pulling for the same CSS styling.
+
+<img alt="main content section" src="https://github.com/bcshanken/agencywork/blob/master/Readme-Images/main-content-cards.JPG?raw=true">
+
+The benfits cards have been properly labeled as an aside in the html document and  have also recieved a much more efficent CSS styling. These benifts cards are designed to be show the aditional value achieved from using the services in the main contnet section.
+
+<img alt="main content section" src="https://github.com/bcshanken/agencywork/blob/master/Readme-Images/Benifits-card.JPG?raw=true">
+
+Lastly our footer has been updated to bring the copy write up to the current year.
+
+<img alt="main content section" src="https://github.com/bcshanken/agencywork/blob/master/Readme-Images/copy-write.JPG?raw=true">
+
+# Credits
+
+This webpage was originally cloned from another repository created by GT-Coding-Boot-Camp. To see the original work you may go to: https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-inc-fsf-pt-08-2020-u-c
+
+# License
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the <a href="https://github.com/bcshanken/agencywork/blob/master/liscense.txt">MIT</a> license.
